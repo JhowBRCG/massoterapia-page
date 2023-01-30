@@ -1,0 +1,10 @@
+.wrapper-local {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 50px;
+  gap: 20px;
+  border: 2px solid #cf919c;
+  padding: 120px 200px;
+}

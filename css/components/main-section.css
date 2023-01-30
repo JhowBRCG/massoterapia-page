@@ -1,0 +1,22 @@
+.main-section {
+  padding-top: 50px;
+}
+
+.main-section.-second {
+  padding-bottom: 200px;
+}
+.main-section .second-title {
+  margin-bottom: 30px;
+}
+
+.main-section.-second .second-title {
+  margin-top: 60px;
+}
+
+.main-section .second-title.-second {
+  margin-top: 40px;
+}
+
+.main-section .second-title.-third {
+  margin-top: 100px;
+}

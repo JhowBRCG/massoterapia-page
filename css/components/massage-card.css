@@ -1,0 +1,13 @@
+.massage-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+figcaption {
+  width: 200px;
+  margin-top: 10px;
+  color: #cf919c;
+  font-size: 18px;
+}

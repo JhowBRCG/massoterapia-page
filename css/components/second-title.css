@@ -1,0 +1,22 @@
+.second-title {
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+  letter-spacing: 4px;
+  font-size: 70px;
+  color: #cf919c;
+}
+
+.second-title.-second {
+  font-size: 20px;
+  font-family: "Fira code", sans-serif;
+  letter-spacing: 2px;
+}
+
+.second-title.-third {
+  font-size: 20px;
+  font-family: "Fira code", sans-serif;
+  letter-spacing: 4px;
+  font-size: 22px;
+  border-top: 2px solid #cf919c;
+  border-bottom: 2px solid #cf919c;
+}

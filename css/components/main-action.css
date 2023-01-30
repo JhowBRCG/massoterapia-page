@@ -1,0 +1,13 @@
+.main-action {
+  display: inline-flex;
+  margin-right: 50px;
+  font-size: 1.4em;
+  color: #cf919c;
+  transition: 100ms ease-in-out;
+}
+
+.main-action:hover {
+  transition: 100ms ease-in-out;
+  color: white;
+  transform: scale(1.2);
+}

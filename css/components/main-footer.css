@@ -1,0 +1,12 @@
+.main-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eedbdb;
+  padding: 20px;
+}
+
+.main-footer .instagram {
+  color: #cf919c;
+  font-size: 50px;
+}

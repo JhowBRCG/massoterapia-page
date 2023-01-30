@@ -1,0 +1,12 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  background-color: #eedbdb;
+}
+
+.main-header .logo {
+  width: 100px;
+  border-radius: 50%;
+}
