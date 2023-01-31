@@ -8,3 +8,7 @@
   background-color: #eedbdb;
   color: #cf919c;
 }
+
+.mobile-button .icon {
+  width: 40px;
+}
