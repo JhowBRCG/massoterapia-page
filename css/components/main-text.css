@@ -3,3 +3,9 @@
   color: rgb(151, 118, 75);
   font-size: 4.5rem;
 }
+
+@media (max-width: 750px) {
+  .main-text {
+    font-size: 2.4rem;
+  }
+}
