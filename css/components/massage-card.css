@@ -3,6 +3,8 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
+  cursor: pointer;
+  transition: 100ms ease-in-out;
 }
 
 figcaption {
@@ -10,4 +12,9 @@ figcaption {
   margin-top: 10px;
   color: #cf919c;
   font-size: 18px;
+}
+
+.massage-card:hover {
+  transition: 100ms ease-in-out;
+  transform: scale(1.09);
 }

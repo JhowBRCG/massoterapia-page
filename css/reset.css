@@ -10,3 +10,7 @@ body {
   font-family: "Fira Code", sans-serif;
   background-color: #eed8db69;
 }
+
+html {
+  font-size: 62.5%;
+}

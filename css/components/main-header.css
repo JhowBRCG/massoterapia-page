@@ -2,8 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 30px;
+  padding: 20px 150px;
   background-color: #eedbdb;
+  width: 100%;
 }
 
 .main-header .logo {
