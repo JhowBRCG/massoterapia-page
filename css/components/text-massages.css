@@ -3,3 +3,9 @@
   border-bottom: 0.1px solid #cf919c41;
   font-size: 1.6rem;
 }
+
+@media (max-width: 350px) {
+  html {
+    font-size: 50%;
+  }
+}

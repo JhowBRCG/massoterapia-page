@@ -8,3 +8,9 @@
   border: 2px solid #cf919c;
   padding: 150px 60px;
 }
+
+@media (max-width: 465px) {
+  .wrapper-local {
+    padding: 150px 30px;
+  }
+}

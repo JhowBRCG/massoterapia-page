@@ -5,13 +5,13 @@
   text-align: center;
   cursor: pointer;
   transition: 100ms ease-in-out;
+  gap: 30px;
 }
 
 figcaption {
   width: 200px;
-  margin-top: 10px;
   color: #cf919c;
-  font-size: 18px;
+  font-size: 1.8rem;
 }
 
 .massage-card:hover {

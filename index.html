@@ -10,6 +10,7 @@
 
     <link rel="stylesheet" href="./css/reset.css" />
     <link rel="stylesheet" href="./css/components/main-header.css" />
+    <link rel="stylesheet" href="./css/components/mobile-button.css" />
     <link rel="stylesheet" href="./css/components/main-action.css" />
     <link rel="stylesheet" href="./css/components/main-banner.css" />
     <link rel="stylesheet" href="./css/components/main-title.css" />
@@ -34,12 +35,16 @@
   <body>
     <header class="main-header">
       <img class="logo" src="./assets/images/logo.png" alt="Logo site" />
-      <nav class="menu">
-        <a href="#" class="main-action">Produtos</a>
+      <button class="mobile-button">
+        <iconify-icon icon="ic:round-menu">menu</iconify-icon>
+      </button>
+      <nav id="nav">
+        <a href="#" class="main-action">Massagens</a>
         <a href="#" class="main-action">Local </a>
         <a href="#" class="main-action">Redes Sociais </a>
       </nav>
     </header>
+
     <section class="main-banner">
       <div class="wrapper">
         <h1 class="main-title">LE RENOVARE</h1>
@@ -116,6 +121,7 @@
         <iconify-icon class="instagram" icon="ph:instagram-logo"></iconify-icon
       ></a>
     </footer>
+    <script src="./javascript/mobile-button.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
   </body>
 </html>

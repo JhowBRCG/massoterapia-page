@@ -1,0 +1,10 @@
+.mobile-button {
+  display: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 4rem;
+  text-align: center;
+  border: 0;
+  background-color: #eedbdb;
+  color: #cf919c;
+}
