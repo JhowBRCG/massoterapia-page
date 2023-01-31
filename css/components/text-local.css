@@ -1,23 +1,10 @@
 .text-local {
-  display: block;
   color: #cf919c;
   font-size: 2.5rem;
 }
 
-@media (max-width: 1033px) {
+@media (max-width: 445px) {
   .text-local {
-    font-size: 1.5rem;
-  }
-}
-
-@media (max-width: 773px) {
-  .text-local {
-    font-size: 1.4rem;
-  }
-}
-
-@media (max-width: 447px) {
-  .text-local {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 }
