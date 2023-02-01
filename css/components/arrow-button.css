@@ -1,0 +1,27 @@
+.massages-arrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.arrow-down {
+  width: 30px;
+  position: absolute;
+  top: 0;
+  transform: translateX(109px) translateY(40px);
+}
+
+@media (max-width: 350px) {
+  .arrow-down {
+    transform: translateX(90px) translateY(37px);
+  }
+}
+
+.arrow-up {
+  width: 30px;
+  position: absolute;
+  top: 0;
+  transform: translateX(109px) translateY(40px);
+  display: none;
+}

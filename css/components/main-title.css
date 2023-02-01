@@ -4,3 +4,9 @@
   font-size: 4rem;
   letter-spacing: 6px;
 }
+
+@media (max-width: 390px) {
+  .main-title {
+    font-size: 3.5rem;
+  }
+}
